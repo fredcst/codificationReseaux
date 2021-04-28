@@ -109,7 +109,7 @@ int genere1charDe2codes(char codes[2],int nx,int rx,UINT gd,UINT restex1e[],char
 
 /**
 
-MOVAISE SOLUTION envoyer les bits de parite des deux nibbles en une seule byte, et les bits de
+MAUVAISE SOLUTION envoyer les bits de parite des deux nibbles en une seule byte, et les bits de
  message en autre!!,car il est possible que pour un niveau de bruit de 1 bit per BYTE de erreur, dans 
 deux bytes consécutif les bits changés soient dans la meme region : sur le nibble haut ou sur 
 le nibble bas des  deux bytes, ce que signifique  que le code reconstruit des deux nibbles hauts

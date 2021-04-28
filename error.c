@@ -128,10 +128,6 @@ void includeError4(char *string, int size)
   return;
 }
 
-
-
-
-
 void includeError5(char *string, int size)
 {
   time_t t;
