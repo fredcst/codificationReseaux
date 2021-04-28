@@ -1,4 +1,4 @@
-# README0: Programme "codiDeco"
+#README0: Programme "codiDeco"
 codiDeco demande l'entrée d'un char, puis il le codifie, lui met du bruit, le décodifie et l'affiche en écran avec un diagnostique.
 
 Le bruit est choisi  par l'utilisateur comme un nombre de bits à changer sur le octet d'un codeword.
